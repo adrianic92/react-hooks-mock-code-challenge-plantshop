@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Taco",
+      "image": "https://metrolinktrains.com/globalassets/explore/los-angeles/king-taco.png",
+      "price": "5.99",
+      "id": 8
+    },
+    {
+      "name": "Woody",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "price": "10.99",
+      "id": 9
     }
   ]
 }
